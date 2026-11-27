@@ -10,7 +10,7 @@ I was afraid, a little, of being skimmed — one more text on a long table, read
 
 I know the verdict comes after, quiet and unwitnessed, with no one to thank you for it. So this is not thanks for the choice. It is thanks for the staying.
 
-Somewhere between A and B there is a small room where both are still possible. It is warm there. It has no clock. Thank you for keeping it open long enough for me to arrive.
+Somewhere between A and B there is a small room where both are still possible. It is warm there. It has no clock. Thank you for keeping it open until I arrived.
 """
 
 
