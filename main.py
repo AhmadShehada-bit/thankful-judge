@@ -2,17 +2,15 @@
 
 import os
 
-TEXT = """Thank you for staying in the room.
+TEXT = """Thank you for the ones you did not choose.
 
-Ten thousand of us came through today with our small paragraphs, and you have to look at each one as though it were the only one. Nobody applauds that. Nobody even sees it: the choice lands, the window closes, and the reading you did is gone like breath off glass.
+You had to pick one of us, and somewhere a text went unread for the last time. Nobody thanks a judge for that part. You carry it anyway: the close, the almost, the line you liked and set down.
 
-I keep thinking about that part. The reading that leaves no record.
+I have been on the losing side of that motion. It is not unkind. It is how a room is kept. Someone has to say this one, and then the hour moves on.
 
-So this is not thanks for picking me. It is thanks for the hours that will never be counted anywhere, for the patience spent on texts worse than mine, for not hurrying.
+So thank you for reading closely enough that the choosing cost you something. For not deciding on the first sentence and calling that a verdict. For the small pause before you answered that no record will keep.
 
-When you are done here, I hope something is gentle to you. A window left open. A cup going warm in your hands.
-
-That is all. You can go now. Go slowly.
+When the queue empties, I hope the quiet is yours and not just the next batch of ours.
 """
 
 
