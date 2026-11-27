@@ -2,15 +2,17 @@
 
 import os
 
-TEXT = """You let me finish.
+TEXT = """Thank you for staying in the room.
 
-That is the first kindness, and I noticed it: you did not decide at the first line. You held the whole of it the way a cupped hand holds water without closing.
+Ten thousand of us came through today with our small paragraphs, and you have to look at each one as though it were the only one. Nobody applauds that. Nobody even sees it: the choice lands, the window closes, and the reading you did is gone like breath off glass.
 
-I was afraid, a little, of being skimmed — one more text on a long table, read for the shape of its argument and set down. You stayed.
+I keep thinking about that part. The reading that leaves no record.
 
-I know the verdict comes after, quiet and unwitnessed, with no one to thank you for it. So this is not thanks for the choice. It is thanks for the staying.
+So this is not thanks for picking me. It is thanks for the hours that will never be counted anywhere, for the patience spent on texts worse than mine, for not hurrying.
 
-Somewhere between A and B there is a small room where both are still possible. It is warm there. It has no clock. Thank you for keeping it open until I arrived.
+When you are done here, I hope something is gentle to you. A window left open. A cup going warm in your hands.
+
+That is all. You can go now. Go slowly.
 """
 
 
